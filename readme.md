@@ -1,11 +1,11 @@
 # Digraphs
 
-While talking with a Wordle friend, I realised that although I was pretty sure
-what letters are most common (just looking at Scrabble tiles makes that pretty
-clear), I've always run on wild assumptions about which digraphs are the most
-common. So I threw together some code to find out.
+While talking with a Wordle friend, I realised that, although I'm pretty sure
+about what _letters_ are most common in English (the values of Scrabble tiles
+make it pretty clear), I've always run on wild assumptions about which
+_digraphs_ are the most common. So I threw together some code to find out.
 
-Without further _adieu_ (one of my favourite starter words), here's what I
+Without further adieu (one of my favourite starter words 😏), here's what I
 found:
 
 ## Most common digraphs in the English dictionary:
